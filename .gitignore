@@ -1,0 +1,17 @@
+
+# Python Byte-code
+__pycache__/
+*.pyc
+
+# IDEs / macOS
+.ipynb_checkpoints/
+.DS_Store
+
+# Data Files (Hindari upload data besar yang sudah diolah)
+Data/processed/df_final_encoded.csv
+Data/raw/data_transaction.csv
+
+# Environments (Hindari upload folder lingkungan virtual)
+venv/
+env/
+miniconda3/
